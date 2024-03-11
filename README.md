@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Jesper and I have built webpages and apps for 25 years+ (born 1985).
+I like both coding and designing. Currently I am studying to Front End Developer in Stockholm, Sweden.
+
+
+
 
 <!--
 **jesperekerling/jesperekerling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
