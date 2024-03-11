@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi 👋
 My name is Jesper and I have built webpages and apps for 25 years+ (born 1985).
 I like both coding and designing. Currently I am studying to Front End Developer in Stockholm, Sweden.
+
+At https://ekerling.com/ you can view some of my previous projects.
 
 
 
