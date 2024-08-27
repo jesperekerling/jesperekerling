@@ -4,6 +4,10 @@ I like both coding and designing. Currently I am studying to Front End Developer
 
 At https://ekerling.com/ you can view some of my previous projects.
 
+Some live examples of my coding:
+https://ecommerce.ekerling.com/
+https://ecommerce-api.ekerling.com/
+https://books.ekerling.com/
 
 
 
