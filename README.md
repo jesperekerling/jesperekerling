@@ -1,4 +1,6 @@
-### Hi 👋
+#![github-hero](https://github.com/user-attachments/assets/a9cff393-11f7-4f1c-a339-b623e92875c4)
+
+## Hi 👋
 My name is Jesper and I have built webpages and apps for 25 years+ (born 1985).
 I like both coding and designing. Currently I am studying to Front End Developer in Stockholm, Sweden.
 
