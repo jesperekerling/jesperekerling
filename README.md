@@ -12,6 +12,8 @@ https://ecommerce.ekerling.com/
 
 https://ecommerce-api.ekerling.com/
 
+https://forum.ekerling.com/
+
 https://books.ekerling.com/
 
 
